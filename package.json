@@ -1,0 +1,14 @@
+{
+    "name": "@bdsx/acid-rain",
+    "description": "This plugin for BDSX",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "ISC",
+    "keywords": [ "acid-rain", "BDSX" ],
+    "author": "ItzCandra23",
+    "homepage": "https://github.com/ItzCandra23/acid-rain",
+    "bdsxPlugin": true,
+    "devDependencies": {
+      "bdsx": "file:../bdsx"
+    }
+}
